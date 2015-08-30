@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PlugLoadDemo/libs/dexmaker-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PlugLoadDemo/libs/pluginmgr-0.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

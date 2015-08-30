@@ -17,6 +17,7 @@ package androidx.pluginmgr;
 
 import java.util.List;
 
+import android.annotation.TargetApi;
 import android.content.ComponentName;
 import android.content.Intent;
 import android.content.IntentFilter;
@@ -34,6 +35,7 @@ import android.content.pm.ServiceInfo;
 import android.content.res.Resources;
 import android.content.res.XmlResourceParser;
 import android.graphics.drawable.Drawable;
+import android.os.Build;
 
 /**
  * Customer PackageManager
@@ -62,16 +64,19 @@ public class PluginPackageManager extends PackageManager {
 		return orig.getPackageInfo(packageName, flags);
 	}
 
+	@TargetApi(Build.VERSION_CODES.FROYO)
 	@Override
 	public String[] currentToCanonicalPackageNames(String[] names) {
 		return orig.currentToCanonicalPackageNames(names);
 	}
 
+	@TargetApi(Build.VERSION_CODES.FROYO)
 	@Override
 	public String[] canonicalToCurrentPackageNames(String[] names) {
 		return orig.canonicalToCurrentPackageNames(names);
 	}
 
+	@TargetApi(Build.VERSION_CODES.CUPCAKE)
 	@Override
 	public Intent getLaunchIntentForPackage(String packageName) {
 		// PlugInfo plugin =
@@ -182,6 +187,7 @@ public class PluginPackageManager extends PackageManager {
 		return orig.getServiceInfo(component, flags);
 	}
 
+	@TargetApi(Build.VERSION_CODES.GINGERBREAD)
 	@Override
 	public ProviderInfo getProviderInfo(ComponentName component, int flags)
 			throws NameNotFoundException {
@@ -192,6 +198,11 @@ public class PluginPackageManager extends PackageManager {
 	@Override
 	public List<PackageInfo> getInstalledPackages(int flags) {
 		return orig.getInstalledPackages(flags);
+	}
+
+	@Override
+	public List<PackageInfo> getPackagesHoldingPermissions(String[] permissions, int flags) {
+		return null;
 	}
 
 	@Override
@@ -224,6 +235,7 @@ public class PluginPackageManager extends PackageManager {
 		return orig.checkSignatures(pkg1, pkg2);
 	}
 
+	@TargetApi(Build.VERSION_CODES.ECLAIR)
 	@Override
 	public int checkSignatures(int uid1, int uid2) {
 		// TODO checkSignatures
@@ -247,18 +259,21 @@ public class PluginPackageManager extends PackageManager {
 		return orig.getInstalledApplications(flags);
 	}
 
+	@TargetApi(Build.VERSION_CODES.CUPCAKE)
 	@Override
 	public String[] getSystemSharedLibraryNames() {
 		// TODO getSystemSharedLibraryNames
 		return orig.getSystemSharedLibraryNames();
 	}
 
+	@TargetApi(Build.VERSION_CODES.ECLAIR)
 	@Override
 	public FeatureInfo[] getSystemAvailableFeatures() {
 		// TODO getSystemAvailableFeatures
 		return orig.getSystemAvailableFeatures();
 	}
 
+	@TargetApi(Build.VERSION_CODES.ECLAIR)
 	@Override
 	public boolean hasSystemFeature(String name) {
 		// TODO hasSystemFeature
@@ -315,6 +330,11 @@ public class PluginPackageManager extends PackageManager {
 	public List<ResolveInfo> queryIntentServices(Intent intent, int flags) {
 		// TODO Auto-generated method stub
 		return orig.queryIntentServices(intent, flags);
+	}
+
+	@Override
+	public List<ResolveInfo> queryIntentContentProviders(Intent intent, int flags) {
+		return null;
 	}
 
 	@Override
@@ -527,6 +547,21 @@ public class PluginPackageManager extends PackageManager {
 			throws NameNotFoundException {
 		// TODO Auto-generated method stub
 		return null;
+	}
+
+	@Override
+	public void verifyPendingInstall(int id, int verificationCode) {
+
+	}
+
+	@Override
+	public void extendVerificationTimeout(int id, int verificationCodeAtTimeout, long millisecondsToDelay) {
+
+	}
+
+	@Override
+	public void setInstallerPackageName(String targetPackage, String installerPackageName) {
+
 	}
 
 	/*
