@@ -99,8 +99,9 @@
             </intent-filter>
         </activity>
         
-        <activity android:name="androidx.pluginmgr.PluginActivity" /> 
-    </application>
+        <activity android:name="androidx.pluginmgr.PluginActivity" />
+
+	</application>
 <uses-permission android:name="android.permission.ACCESS_WIFI_STATE">
 	</uses-permission>
 	<uses-permission android:name="android.permission.READ_PHONE_STATE">

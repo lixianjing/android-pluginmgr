@@ -6,10 +6,11 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="lmf" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1bce0bb-02da-41a7-b494-f937d49ddf34" name="Default" comment="" />
+    <list default="true" id="4ea409a7-13b3-4204-a164-dca75295e070" name="Default" comment="" />
     <ignored path="android-pluginmgr.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,7 +30,234 @@
     <favorites_list name="android-pluginmgr" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PlugLoadDemo/src/androidx/plmgrdemo/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="142" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PluginManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/PluginManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="298" column="0" selection-start-line="298" selection-start-column="0" selection-end-line="298" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Thread.java" pinned="false" current-in-tab="true">
+        <entry file="file://E:/android-sdk/sources/android-19/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="817" column="0" selection-start-line="817" selection-start-column="0" selection-end-line="817" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PluginManifestUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/PluginManifestUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Intent.java" pinned="false" current-in-tab="false">
+        <entry file="file://E:/android-sdk/sources/android-19/android/content/Intent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4053" column="0" selection-start-line="4053" selection-start-column="0" selection-end-line="4053" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#299540#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#36595#36596#0" expanded="false" />
+                <element signature="e#36627#36628#0" expanded="false" />
+                <element signature="e#36839#36840#0" expanded="false" />
+                <element signature="e#36882#36883#0" expanded="false" />
+                <element signature="e#175657#175658#0" expanded="false" />
+                <element signature="e#175696#175697#0" expanded="false" />
+                <element signature="e#176232#176233#0" expanded="false" />
+                <element signature="e#176278#176279#0" expanded="false" />
+                <element signature="e#176788#176789#0" expanded="false" />
+                <element signature="e#176821#176822#0" expanded="false" />
+                <element signature="e#196524#196525#0" expanded="false" />
+                <element signature="e#196554#196555#0" expanded="false" />
+                <element signature="e#197000#197001#0" expanded="false" />
+                <element signature="e#197028#197029#0" expanded="false" />
+                <element signature="e#197169#197170#0" expanded="false" />
+                <element signature="e#197231#197232#0" expanded="false" />
+                <element signature="e#197677#197678#0" expanded="false" />
+                <element signature="e#197740#197741#0" expanded="false" />
+                <element signature="e#198100#198101#0" expanded="false" />
+                <element signature="e#198128#198129#0" expanded="false" />
+                <element signature="e#198564#198565#0" expanded="false" />
+                <element signature="e#198628#198629#0" expanded="false" />
+                <element signature="e#200825#200826#0" expanded="false" />
+                <element signature="e#200859#200860#0" expanded="false" />
+                <element signature="e#201095#201096#0" expanded="false" />
+                <element signature="e#201127#201128#0" expanded="false" />
+                <element signature="e#201365#201366#0" expanded="false" />
+                <element signature="e#201397#201398#0" expanded="false" />
+                <element signature="e#202024#202025#0" expanded="false" />
+                <element signature="e#202091#202092#0" expanded="false" />
+                <element signature="e#202302#202303#0" expanded="false" />
+                <element signature="e#202372#202373#0" expanded="false" />
+                <element signature="e#202860#202861#0" expanded="false" />
+                <element signature="e#202903#202904#0" expanded="false" />
+                <element signature="e#218244#218245#0" expanded="false" />
+                <element signature="e#218273#218274#0" expanded="false" />
+                <element signature="e#218864#218865#0" expanded="false" />
+                <element signature="e#218895#218896#0" expanded="false" />
+                <element signature="e#219375#219376#0" expanded="false" />
+                <element signature="e#219408#219409#0" expanded="false" />
+                <element signature="e#219667#219668#0" expanded="false" />
+                <element signature="e#219703#219704#0" expanded="false" />
+                <element signature="e#226842#226843#0" expanded="false" />
+                <element signature="e#226896#226897#0" expanded="false" />
+                <element signature="e#228897#228898#0" expanded="false" />
+                <element signature="e#228952#228953#0" expanded="false" />
+                <element signature="e#236452#236453#0" expanded="false" />
+                <element signature="e#236484#236485#0" expanded="false" />
+                <element signature="e#275223#275224#0" expanded="false" />
+                <element signature="e#275261#275262#0" expanded="false" />
+                <element signature="e#275592#275593#0" expanded="false" />
+                <element signature="e#275632#275633#0" expanded="false" />
+                <element signature="e#282880#282881#0" expanded="false" />
+                <element signature="e#282911#282912#0" expanded="false" />
+                <element signature="e#287502#287503#0" expanded="false" />
+                <element signature="e#287575#287576#0" expanded="false" />
+                <element signature="e#288845#288846#0" expanded="false" />
+                <element signature="e#288890#288891#0" expanded="false" />
+                <element signature="e#288935#288936#0" expanded="false" />
+                <element signature="e#288982#288983#0" expanded="false" />
+                <element signature="e#289041#289042#0" expanded="false" />
+                <element signature="e#289075#289076#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FrameworkClassLoader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/FrameworkClassLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="53" column="65" selection-start-line="53" selection-start-column="65" selection-end-line="53" selection-end-column="65" />
+              <folding>
+                <element signature="e#0#1852#0" expanded="false" />
+                <element signature="e#902#903#0" expanded="false" />
+                <element signature="e#922#923#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PluginClassLoader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/PluginClassLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="51" column="57" selection-start-line="51" selection-start-column="57" selection-end-line="51" selection-end-column="57" />
+              <folding>
+                <element signature="e#0#3984#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#2861#2862#0" expanded="false" />
+                <element signature="e#2890#2891#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadGroup.java" pinned="false" current-in-tab="false">
+        <entry file="file://E:/android-sdk/sources/android-19/java/lang/ThreadGroup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="691" column="70" selection-start-line="691" selection-start-column="70" selection-end-line="691" selection-end-column="70" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ActivityOverider.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/ActivityOverider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#13615#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlugInfo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/PlugInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#8433#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#5551#5552#0" expanded="false" />
+                <element signature="e#5567#5568#0" expanded="false" />
+                <element signature="e#5600#5601#0" expanded="false" />
+                <element signature="e#5619#5620#0" expanded="false" />
+                <element signature="e#5651#5652#0" expanded="false" />
+                <element signature="e#5673#5674#0" expanded="false" />
+                <element signature="e#5718#5719#0" expanded="false" />
+                <element signature="e#5749#5750#0" expanded="false" />
+                <element signature="e#5789#5790#0" expanded="false" />
+                <element signature="e#5814#5815#0" expanded="false" />
+                <element signature="e#6033#6034#0" expanded="false" />
+                <element signature="e#6058#6059#0" expanded="false" />
+                <element signature="e#6120#6121#0" expanded="false" />
+                <element signature="e#6157#6158#0" expanded="false" />
+                <element signature="e#6197#6198#0" expanded="false" />
+                <element signature="e#6222#6223#0" expanded="false" />
+                <element signature="e#6278#6279#0" expanded="false" />
+                <element signature="e#6315#6316#0" expanded="false" />
+                <element signature="e#6357#6358#0" expanded="false" />
+                <element signature="e#6383#6384#0" expanded="false" />
+                <element signature="e#6442#6443#0" expanded="false" />
+                <element signature="e#6481#6482#0" expanded="false" />
+                <element signature="e#6517#6518#0" expanded="false" />
+                <element signature="e#6540#6541#0" expanded="false" />
+                <element signature="e#6590#6591#0" expanded="false" />
+                <element signature="e#6623#6624#0" expanded="false" />
+                <element signature="e#7019#7020#0" expanded="false" />
+                <element signature="e#7041#7042#0" expanded="false" />
+                <element signature="e#7097#7098#0" expanded="false" />
+                <element signature="e#7128#7129#0" expanded="false" />
+                <element signature="e#7172#7173#0" expanded="false" />
+                <element signature="e#7195#7196#0" expanded="false" />
+                <element signature="e#7253#7254#0" expanded="false" />
+                <element signature="e#7286#7287#0" expanded="false" />
+                <element signature="e#7327#7328#0" expanded="false" />
+                <element signature="e#7353#7354#0" expanded="false" />
+                <element signature="e#7397#7398#0" expanded="false" />
+                <element signature="e#7420#7421#0" expanded="false" />
+                <element signature="e#8113#8114#0" expanded="false" />
+                <element signature="e#8135#8136#0" expanded="false" />
+                <element signature="e#8208#8209#0" expanded="false" />
+                <element signature="e#8231#8232#0" expanded="false" />
+                <element signature="e#8306#8307#0" expanded="false" />
+                <element signature="e#8330#8331#0" expanded="false" />
+                <element signature="e#8392#8393#0" expanded="false" />
+                <element signature="e#8429#8430#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -40,6 +268,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/PluginPackageManager.java" />
+        <option value="$PROJECT_DIR$/PlugLoadDemo/src/androidx/plmgrdemo/SecondActivity.java" />
+        <option value="$PROJECT_DIR$/PlugLoadDemo/src/androidx/plmgrdemo/MainActivity.java" />
+        <option value="$PROJECT_DIR$/PlugLoadDemo/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -82,26 +313,6 @@
               <option name="myItemId" value="android-pluginmgr" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android-pluginmgr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android-pluginmgr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -112,23 +323,13 @@
               <option name="myItemId" value="android-pluginmgr" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="android-pluginmgr" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PlugLoadDemo" />
+              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.NonAndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.NonAndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plmgrdemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -154,14 +355,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="recentsLimit" value="5" />
-    <property name="OverrideImplement.combined" value="true" />
-    <property name="OverrideImplement.overriding.sorted" value="false" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="restartRequiresConfirmation" value="true" />
+    <property name="DEBUGGABLE_DEVICE" value="Nexus_5_API_22_x86 [emulator-5554]" />
+    <property name="DEBUGGABLE_PROCESS" value="androidx.plmgrdemo" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_5_API_22_x86" />
   </component>
-  <component name="RunManager" selected="Android Application.PlugLoadDemo">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\projects\android-pluginmgr\PlugLoadDemo\assets\apks" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.Unnamed">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -314,13 +523,13 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="PlugLoadDemo" type="AndroidRunConfigurationType" factoryName="Android Application">
+    <configuration default="false" name="Unnamed" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="PlugLoadDemo" />
       <option name="ACTIVITY_CLASS" value="" />
       <option name="MODE" value="default_activity" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
       <option name="USE_COMMAND_LINE" value="true" />
@@ -344,7 +553,7 @@
       <method />
     </configuration>
     <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Android Application.PlugLoadDemo" />
+      <item index="0" class="java.lang.String" itemvalue="Android Application.Unnamed" />
     </list>
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
@@ -360,120 +569,770 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d1bce0bb-02da-41a7-b494-f937d49ddf34" name="Default" comment="" />
-      <created>1440924950789</created>
+      <changelist id="4ea409a7-13b3-4204-a164-dca75295e070" name="Default" comment="" />
+      <created>1440926091947</created>
       <option name="number" value="Default" />
-      <updated>1440924950789</updated>
+      <updated>1440926091947</updated>
     </task>
     <servers />
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.49573562" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.48933902" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962137" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962137" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42761692" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997773" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997773" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42761692" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/PlugLoadDemo/src/androidx/plmgrdemo/MainActivity.java</url>
+          <line>141</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/FrameworkClassLoader.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/PlugLoadDemo/src/androidx/plmgrdemo/MainActivity.java</url>
+          <line>126</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/PlugLoadDemo/src/androidx/plmgrdemo/MainActivity.java</url>
+          <line>111</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/PlugLoadDemo/src/androidx/plmgrdemo/MainActivity.java</url>
+          <line>128</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/PlugLoadDemo/src/androidx/plmgrdemo/MainActivity.java</url>
+          <line>129</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/PluginManager.java</url>
+          <line>419</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/PluginManager.java</url>
+          <line>421</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/PluginClassLoader.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Unnamed">
+        <watch expression="plugin" language="JAVA" custom="" />
+        <watch expression="privateFile" language="JAVA" custom="" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/PluginPackageManager.java">
+    <entry file="file://$PROJECT_DIR$/PlugLoadDemo/src/androidx/plmgrdemo/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="142" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/PluginManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="298" column="0" selection-start-line="298" selection-start-column="0" selection-end-line="298" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/android-sdk/sources/android-19/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="817" column="0" selection-start-line="817" selection-start-column="0" selection-end-line="817" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/PluginManifestUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/android-sdk/sources/android-19/android/content/Intent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4053" column="0" selection-start-line="4053" selection-start-column="0" selection-end-line="4053" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#299540#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#36595#36596#0" expanded="false" />
+            <element signature="e#36627#36628#0" expanded="false" />
+            <element signature="e#36839#36840#0" expanded="false" />
+            <element signature="e#36882#36883#0" expanded="false" />
+            <element signature="e#175657#175658#0" expanded="false" />
+            <element signature="e#175696#175697#0" expanded="false" />
+            <element signature="e#176232#176233#0" expanded="false" />
+            <element signature="e#176278#176279#0" expanded="false" />
+            <element signature="e#176788#176789#0" expanded="false" />
+            <element signature="e#176821#176822#0" expanded="false" />
+            <element signature="e#196524#196525#0" expanded="false" />
+            <element signature="e#196554#196555#0" expanded="false" />
+            <element signature="e#197000#197001#0" expanded="false" />
+            <element signature="e#197028#197029#0" expanded="false" />
+            <element signature="e#197169#197170#0" expanded="false" />
+            <element signature="e#197231#197232#0" expanded="false" />
+            <element signature="e#197677#197678#0" expanded="false" />
+            <element signature="e#197740#197741#0" expanded="false" />
+            <element signature="e#198100#198101#0" expanded="false" />
+            <element signature="e#198128#198129#0" expanded="false" />
+            <element signature="e#198564#198565#0" expanded="false" />
+            <element signature="e#198628#198629#0" expanded="false" />
+            <element signature="e#200825#200826#0" expanded="false" />
+            <element signature="e#200859#200860#0" expanded="false" />
+            <element signature="e#201095#201096#0" expanded="false" />
+            <element signature="e#201127#201128#0" expanded="false" />
+            <element signature="e#201365#201366#0" expanded="false" />
+            <element signature="e#201397#201398#0" expanded="false" />
+            <element signature="e#202024#202025#0" expanded="false" />
+            <element signature="e#202091#202092#0" expanded="false" />
+            <element signature="e#202302#202303#0" expanded="false" />
+            <element signature="e#202372#202373#0" expanded="false" />
+            <element signature="e#202860#202861#0" expanded="false" />
+            <element signature="e#202903#202904#0" expanded="false" />
+            <element signature="e#218244#218245#0" expanded="false" />
+            <element signature="e#218273#218274#0" expanded="false" />
+            <element signature="e#218864#218865#0" expanded="false" />
+            <element signature="e#218895#218896#0" expanded="false" />
+            <element signature="e#219375#219376#0" expanded="false" />
+            <element signature="e#219408#219409#0" expanded="false" />
+            <element signature="e#219667#219668#0" expanded="false" />
+            <element signature="e#219703#219704#0" expanded="false" />
+            <element signature="e#226842#226843#0" expanded="false" />
+            <element signature="e#226896#226897#0" expanded="false" />
+            <element signature="e#228897#228898#0" expanded="false" />
+            <element signature="e#228952#228953#0" expanded="false" />
+            <element signature="e#236452#236453#0" expanded="false" />
+            <element signature="e#236484#236485#0" expanded="false" />
+            <element signature="e#275223#275224#0" expanded="false" />
+            <element signature="e#275261#275262#0" expanded="false" />
+            <element signature="e#275592#275593#0" expanded="false" />
+            <element signature="e#275632#275633#0" expanded="false" />
+            <element signature="e#282880#282881#0" expanded="false" />
+            <element signature="e#282911#282912#0" expanded="false" />
+            <element signature="e#287502#287503#0" expanded="false" />
+            <element signature="e#287575#287576#0" expanded="false" />
+            <element signature="e#288845#288846#0" expanded="false" />
+            <element signature="e#288890#288891#0" expanded="false" />
+            <element signature="e#288935#288936#0" expanded="false" />
+            <element signature="e#288982#288983#0" expanded="false" />
+            <element signature="e#289041#289042#0" expanded="false" />
+            <element signature="e#289075#289076#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/FrameworkClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="65" selection-start-line="53" selection-start-column="65" selection-end-line="53" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#1852#0" expanded="false" />
+            <element signature="e#902#903#0" expanded="false" />
+            <element signature="e#922#923#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/PluginClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="57" selection-start-line="51" selection-start-column="57" selection-end-line="51" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#3984#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2861#2862#0" expanded="false" />
+            <element signature="e#2890#2891#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/android-sdk/sources/android-19/java/lang/ThreadGroup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/ActivityOverider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#13615#0" expanded="false" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/PlugInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#8433#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#5551#5552#0" expanded="false" />
+            <element signature="e#5567#5568#0" expanded="false" />
+            <element signature="e#5600#5601#0" expanded="false" />
+            <element signature="e#5619#5620#0" expanded="false" />
+            <element signature="e#5651#5652#0" expanded="false" />
+            <element signature="e#5673#5674#0" expanded="false" />
+            <element signature="e#5718#5719#0" expanded="false" />
+            <element signature="e#5749#5750#0" expanded="false" />
+            <element signature="e#5789#5790#0" expanded="false" />
+            <element signature="e#5814#5815#0" expanded="false" />
+            <element signature="e#6033#6034#0" expanded="false" />
+            <element signature="e#6058#6059#0" expanded="false" />
+            <element signature="e#6120#6121#0" expanded="false" />
+            <element signature="e#6157#6158#0" expanded="false" />
+            <element signature="e#6197#6198#0" expanded="false" />
+            <element signature="e#6222#6223#0" expanded="false" />
+            <element signature="e#6278#6279#0" expanded="false" />
+            <element signature="e#6315#6316#0" expanded="false" />
+            <element signature="e#6357#6358#0" expanded="false" />
+            <element signature="e#6383#6384#0" expanded="false" />
+            <element signature="e#6442#6443#0" expanded="false" />
+            <element signature="e#6481#6482#0" expanded="false" />
+            <element signature="e#6517#6518#0" expanded="false" />
+            <element signature="e#6540#6541#0" expanded="false" />
+            <element signature="e#6590#6591#0" expanded="false" />
+            <element signature="e#6623#6624#0" expanded="false" />
+            <element signature="e#7019#7020#0" expanded="false" />
+            <element signature="e#7041#7042#0" expanded="false" />
+            <element signature="e#7097#7098#0" expanded="false" />
+            <element signature="e#7128#7129#0" expanded="false" />
+            <element signature="e#7172#7173#0" expanded="false" />
+            <element signature="e#7195#7196#0" expanded="false" />
+            <element signature="e#7253#7254#0" expanded="false" />
+            <element signature="e#7286#7287#0" expanded="false" />
+            <element signature="e#7327#7328#0" expanded="false" />
+            <element signature="e#7353#7354#0" expanded="false" />
+            <element signature="e#7397#7398#0" expanded="false" />
+            <element signature="e#7420#7421#0" expanded="false" />
+            <element signature="e#8113#8114#0" expanded="false" />
+            <element signature="e#8135#8136#0" expanded="false" />
+            <element signature="e#8208#8209#0" expanded="false" />
+            <element signature="e#8231#8232#0" expanded="false" />
+            <element signature="e#8306#8307#0" expanded="false" />
+            <element signature="e#8330#8331#0" expanded="false" />
+            <element signature="e#8392#8393#0" expanded="false" />
+            <element signature="e#8429#8430#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PlugLoadDemo/src/androidx/plmgrdemo/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="142" column="33" selection-start-line="142" selection-start-column="16" selection-end-line="142" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PlugLoadDemo/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="100" column="8" selection-start-line="100" selection-start-column="8" selection-end-line="100" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/PluginManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="23" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/FrameworkClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="64" selection-start-line="53" selection-start-column="64" selection-end-line="53" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#1852#0" expanded="false" />
+            <element signature="e#902#903#0" expanded="false" />
+            <element signature="e#922#923#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/ActivityOverider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#13615#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/PluginClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="69" column="25" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#3984#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2861#2862#0" expanded="false" />
+            <element signature="e#2890#2891#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/PluginActivityWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/PlugLoadDemo/libs/dexmaker-1.1.jar!/com/google/dexmaker/dx/dex/DexFormat.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/PlugLoadDemo/libs/dexmaker-1.1.jar!/com/google/dexmaker/dx/dex/file/AnnotationSetRefItem.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/PlugInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#8433#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#5551#5552#0" expanded="false" />
+            <element signature="e#5567#5568#0" expanded="false" />
+            <element signature="e#5600#5601#0" expanded="false" />
+            <element signature="e#5619#5620#0" expanded="false" />
+            <element signature="e#5651#5652#0" expanded="false" />
+            <element signature="e#5673#5674#0" expanded="false" />
+            <element signature="e#5718#5719#0" expanded="false" />
+            <element signature="e#5749#5750#0" expanded="false" />
+            <element signature="e#5789#5790#0" expanded="false" />
+            <element signature="e#5814#5815#0" expanded="false" />
+            <element signature="e#6033#6034#0" expanded="false" />
+            <element signature="e#6058#6059#0" expanded="false" />
+            <element signature="e#6120#6121#0" expanded="false" />
+            <element signature="e#6157#6158#0" expanded="false" />
+            <element signature="e#6197#6198#0" expanded="false" />
+            <element signature="e#6222#6223#0" expanded="false" />
+            <element signature="e#6278#6279#0" expanded="false" />
+            <element signature="e#6315#6316#0" expanded="false" />
+            <element signature="e#6357#6358#0" expanded="false" />
+            <element signature="e#6383#6384#0" expanded="false" />
+            <element signature="e#6442#6443#0" expanded="false" />
+            <element signature="e#6481#6482#0" expanded="false" />
+            <element signature="e#6517#6518#0" expanded="false" />
+            <element signature="e#6540#6541#0" expanded="false" />
+            <element signature="e#6590#6591#0" expanded="false" />
+            <element signature="e#6623#6624#0" expanded="false" />
+            <element signature="e#7019#7020#0" expanded="false" />
+            <element signature="e#7041#7042#0" expanded="false" />
+            <element signature="e#7097#7098#0" expanded="false" />
+            <element signature="e#7128#7129#0" expanded="false" />
+            <element signature="e#7172#7173#0" expanded="false" />
+            <element signature="e#7195#7196#0" expanded="false" />
+            <element signature="e#7253#7254#0" expanded="false" />
+            <element signature="e#7286#7287#0" expanded="false" />
+            <element signature="e#7327#7328#0" expanded="false" />
+            <element signature="e#7353#7354#0" expanded="false" />
+            <element signature="e#7397#7398#0" expanded="false" />
+            <element signature="e#7420#7421#0" expanded="false" />
+            <element signature="e#8113#8114#0" expanded="false" />
+            <element signature="e#8135#8136#0" expanded="false" />
+            <element signature="e#8208#8209#0" expanded="false" />
+            <element signature="e#8231#8232#0" expanded="false" />
+            <element signature="e#8306#8307#0" expanded="false" />
+            <element signature="e#8330#8331#0" expanded="false" />
+            <element signature="e#8392#8393#0" expanded="false" />
+            <element signature="e#8429#8430#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PlugLoadDemo/src/androidx/plmgrdemo/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PlugLoadDemo/src/androidx/plmgrdemo/SecondActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/android-sdk/sources/android-19/android/content/ComponentName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/PlugLoadDemo/libs/pluginmgr-0.1.2.jar!/androidx/pluginmgr/PluginManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.178572">
+          <caret line="97" column="93" selection-start-line="97" selection-start-column="93" selection-end-line="97" selection-end-column="93" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PlugLoadDemo/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="100" column="8" selection-start-line="100" selection-start-column="8" selection-end-line="100" selection-end-column="8" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/PluginActivityWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/PlugLoadDemo/libs/dexmaker-1.1.jar!/com/google/dexmaker/dx/dex/DexFormat.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/PlugLoadDemo/libs/dexmaker-1.1.jar!/com/google/dexmaker/dx/dex/file/AnnotationSetRefItem.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06422018">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/PluginPackageManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="279" column="29" selection-start-line="279" selection-start-column="29" selection-end-line="279" selection-end-column="29" />
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#19329#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/PlugLoadDemo/libs/dexmaker-1.1.jar!/com/google/dexmaker/BinaryOp.class">
+    <entry file="file://E:/android-sdk/sources/android-19/android/content/Intent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.928571">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4053" column="0" selection-start-line="4053" selection-start-column="0" selection-end-line="4053" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#299540#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#36595#36596#0" expanded="false" />
+            <element signature="e#36627#36628#0" expanded="false" />
+            <element signature="e#36839#36840#0" expanded="false" />
+            <element signature="e#36882#36883#0" expanded="false" />
+            <element signature="e#175657#175658#0" expanded="false" />
+            <element signature="e#175696#175697#0" expanded="false" />
+            <element signature="e#176232#176233#0" expanded="false" />
+            <element signature="e#176278#176279#0" expanded="false" />
+            <element signature="e#176788#176789#0" expanded="false" />
+            <element signature="e#176821#176822#0" expanded="false" />
+            <element signature="e#196524#196525#0" expanded="false" />
+            <element signature="e#196554#196555#0" expanded="false" />
+            <element signature="e#197000#197001#0" expanded="false" />
+            <element signature="e#197028#197029#0" expanded="false" />
+            <element signature="e#197169#197170#0" expanded="false" />
+            <element signature="e#197231#197232#0" expanded="false" />
+            <element signature="e#197677#197678#0" expanded="false" />
+            <element signature="e#197740#197741#0" expanded="false" />
+            <element signature="e#198100#198101#0" expanded="false" />
+            <element signature="e#198128#198129#0" expanded="false" />
+            <element signature="e#198564#198565#0" expanded="false" />
+            <element signature="e#198628#198629#0" expanded="false" />
+            <element signature="e#200825#200826#0" expanded="false" />
+            <element signature="e#200859#200860#0" expanded="false" />
+            <element signature="e#201095#201096#0" expanded="false" />
+            <element signature="e#201127#201128#0" expanded="false" />
+            <element signature="e#201365#201366#0" expanded="false" />
+            <element signature="e#201397#201398#0" expanded="false" />
+            <element signature="e#202024#202025#0" expanded="false" />
+            <element signature="e#202091#202092#0" expanded="false" />
+            <element signature="e#202302#202303#0" expanded="false" />
+            <element signature="e#202372#202373#0" expanded="false" />
+            <element signature="e#202860#202861#0" expanded="false" />
+            <element signature="e#202903#202904#0" expanded="false" />
+            <element signature="e#218244#218245#0" expanded="false" />
+            <element signature="e#218273#218274#0" expanded="false" />
+            <element signature="e#218864#218865#0" expanded="false" />
+            <element signature="e#218895#218896#0" expanded="false" />
+            <element signature="e#219375#219376#0" expanded="false" />
+            <element signature="e#219408#219409#0" expanded="false" />
+            <element signature="e#219667#219668#0" expanded="false" />
+            <element signature="e#219703#219704#0" expanded="false" />
+            <element signature="e#226842#226843#0" expanded="false" />
+            <element signature="e#226896#226897#0" expanded="false" />
+            <element signature="e#228897#228898#0" expanded="false" />
+            <element signature="e#228952#228953#0" expanded="false" />
+            <element signature="e#236452#236453#0" expanded="false" />
+            <element signature="e#236484#236485#0" expanded="false" />
+            <element signature="e#275223#275224#0" expanded="false" />
+            <element signature="e#275261#275262#0" expanded="false" />
+            <element signature="e#275592#275593#0" expanded="false" />
+            <element signature="e#275632#275633#0" expanded="false" />
+            <element signature="e#282880#282881#0" expanded="false" />
+            <element signature="e#282911#282912#0" expanded="false" />
+            <element signature="e#287502#287503#0" expanded="false" />
+            <element signature="e#287575#287576#0" expanded="false" />
+            <element signature="e#288845#288846#0" expanded="false" />
+            <element signature="e#288890#288891#0" expanded="false" />
+            <element signature="e#288935#288936#0" expanded="false" />
+            <element signature="e#288982#288983#0" expanded="false" />
+            <element signature="e#289041#289042#0" expanded="false" />
+            <element signature="e#289075#289076#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/ActivityOverider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#13615#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PlugLoadDemo/src/androidx/plmgrdemo/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="142" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/PlugLoadDemo/libs/dexmaker-1.1.jar!/com/google/dexmaker/Constants.class">
+    <entry file="file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/PlugInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.928571">
-          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#8433#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#5551#5552#0" expanded="false" />
+            <element signature="e#5567#5568#0" expanded="false" />
+            <element signature="e#5600#5601#0" expanded="false" />
+            <element signature="e#5619#5620#0" expanded="false" />
+            <element signature="e#5651#5652#0" expanded="false" />
+            <element signature="e#5673#5674#0" expanded="false" />
+            <element signature="e#5718#5719#0" expanded="false" />
+            <element signature="e#5749#5750#0" expanded="false" />
+            <element signature="e#5789#5790#0" expanded="false" />
+            <element signature="e#5814#5815#0" expanded="false" />
+            <element signature="e#6033#6034#0" expanded="false" />
+            <element signature="e#6058#6059#0" expanded="false" />
+            <element signature="e#6120#6121#0" expanded="false" />
+            <element signature="e#6157#6158#0" expanded="false" />
+            <element signature="e#6197#6198#0" expanded="false" />
+            <element signature="e#6222#6223#0" expanded="false" />
+            <element signature="e#6278#6279#0" expanded="false" />
+            <element signature="e#6315#6316#0" expanded="false" />
+            <element signature="e#6357#6358#0" expanded="false" />
+            <element signature="e#6383#6384#0" expanded="false" />
+            <element signature="e#6442#6443#0" expanded="false" />
+            <element signature="e#6481#6482#0" expanded="false" />
+            <element signature="e#6517#6518#0" expanded="false" />
+            <element signature="e#6540#6541#0" expanded="false" />
+            <element signature="e#6590#6591#0" expanded="false" />
+            <element signature="e#6623#6624#0" expanded="false" />
+            <element signature="e#7019#7020#0" expanded="false" />
+            <element signature="e#7041#7042#0" expanded="false" />
+            <element signature="e#7097#7098#0" expanded="false" />
+            <element signature="e#7128#7129#0" expanded="false" />
+            <element signature="e#7172#7173#0" expanded="false" />
+            <element signature="e#7195#7196#0" expanded="false" />
+            <element signature="e#7253#7254#0" expanded="false" />
+            <element signature="e#7286#7287#0" expanded="false" />
+            <element signature="e#7327#7328#0" expanded="false" />
+            <element signature="e#7353#7354#0" expanded="false" />
+            <element signature="e#7397#7398#0" expanded="false" />
+            <element signature="e#7420#7421#0" expanded="false" />
+            <element signature="e#8113#8114#0" expanded="false" />
+            <element signature="e#8135#8136#0" expanded="false" />
+            <element signature="e#8208#8209#0" expanded="false" />
+            <element signature="e#8231#8232#0" expanded="false" />
+            <element signature="e#8306#8307#0" expanded="false" />
+            <element signature="e#8330#8331#0" expanded="false" />
+            <element signature="e#8392#8393#0" expanded="false" />
+            <element signature="e#8429#8430#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/FrameworkClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="65" selection-start-line="53" selection-start-column="65" selection-end-line="53" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#1852#0" expanded="false" />
+            <element signature="e#902#903#0" expanded="false" />
+            <element signature="e#922#923#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/PluginClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="57" selection-start-line="51" selection-start-column="57" selection-end-line="51" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#3984#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2861#2862#0" expanded="false" />
+            <element signature="e#2890#2891#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/android-sdk/sources/android-19/java/lang/ThreadGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="691" column="70" selection-start-line="691" selection-start-column="70" selection-end-line="691" selection-end-column="70" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/PlugLoadDemo/libs/dexmaker-1.1.jar!/com/google/dexmaker/Label.class">
+    <entry file="file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/PluginManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25321102">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="298" column="0" selection-start-line="298" selection-start-column="0" selection-end-line="298" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android-pluginmgr/src/main/java/androidx/pluginmgr/PluginManifestUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/android-sdk/sources/android-19/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="817" column="0" selection-start-line="817" selection-start-column="0" selection-end-line="817" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -530,7 +1389,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>PlugLoadDemo</last-edited>
+          <last-edited>main</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -542,7 +1401,7 @@
       </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>Android API 19 Platform</last-edited>
+          <last-edited>Android API 21 Platform</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
